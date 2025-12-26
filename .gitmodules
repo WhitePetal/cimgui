@@ -1,4 +1,4 @@
 [submodule "imgui"]
 	path = imgui
-	url = git@github.com:WhitePetal/imgui.git
+	url = https://github.com/WhitePetal/imgui.git
 	branch = docking
